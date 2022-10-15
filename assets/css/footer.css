@@ -1,0 +1,8 @@
+
+.pie__de__pagina{
+    background: #bfbfbf;
+    color: #fdfdfd;
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5rem;
+}
